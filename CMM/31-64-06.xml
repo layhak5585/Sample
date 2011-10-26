@@ -1,0 +1,79 @@
+<cmm spl="F9111" oidate="20061212" tsn="1" docnbr="0000" lang="EN"
+chapnbr="31" sectnbr="64" subjnbr="06" type="cmm" prelim="0" chg="N"
+revdate="20061212">
+<title>COMPONENT MAINTENANCE MANUAL WITH ILLUSTRATED PARTS LIST</title>
+<partinfo model="AIRBUS">
+<cmpnom>BACK LIGHTING MODULE (BLM) </cmpnom>
+<mfrpnr>
+<pnr>E24906AA</pnr>
+<mfr>F9111</mfr>
+</mfrpnr>
+</partinfo>
+<mfmatr><trlist chg="N" key="TRLIST" revdate="20070921">
+<title>Record of temporary revisions</title>
+<isempty/></trlist><sblist chg="N" key="SBLIST" revdate="20070921"><?Pub Dtl?>
+<title>SERVICE BULLETIN LIST</title>
+<para>The SB List reflects the incorporation status of Service Bulletins
+edited by: THALES Avionics S.A. (Vendor Code F9111).</para>
+<para>The SB List has the following five columns to indicate SBs and
+their status:</para>
+<para>SB number (SB No.) This is the number of the SB. If no SB affects
+the manual content, the comment None is given.</para>
+<para>SB Revision (SB Rev) This is the revision number of the SB.</para>
+<para>SB Subject This is the subject of the SB.</para>
+<para>Modification state (modification state) This is the equipment
+part number  modification state of the unit.</para>
+<para>Incorporation date (INSERTED Date) SB status or incorporation
+date is indicated in this column as follow: If the SB is fully incorporated
+into the manual, the incorporation date is indicated. If the SB is
+partially incorporated into the manual, the field is left blank. If
+the SB data does not affect the manual content, the comment NO EFFECT
+is given.</para>
+<para>Incorporation date (INSERTED No.) This is the revision number
+of the updating Component Maintenance Manual (CMM).</para>
+<note><para>The Service Information Letters (SIL) which affect the
+manual content are listed at the end of the table.</para></note>
+<para></para>
+<sbdata><sbnbr></sbnbr>
+<sbtitle></sbtitle>
+<issdate></issdate>
+</sbdata></sblist></mfmatr>
+<pgblk chapnbr="31" sectnbr="64" subjnbr="06" pgblknbr="0" confnbr="1"
+chg="N" key="PGBLK-31-64-06-0-1" revdate="20070921">
+<title>INTRODUCTION</title>
+<task chapnbr="31" sectnbr="64" subjnbr="06" func="871" seq="801"
+confltr="A" varnbr="01" pgblknbr="0" confnbr="1" chg="N"
+key="TASK-31-64-06-871-801-A01" revdate="20070921">
+<title>General</title>
+<topic>
+<title>Purpose of the Manual</title>
+<prclist1>
+<prcitem1>
+<prcitem>
+<unlist bulltype="NONE">
+<unlitem><para>The Component Maintenance Manual (CMM) conforms to
+ATA Specification No. 2200.</para></unlitem>
+<unlitem><para>The CMM provides shop verified procedures that enable
+a mechanic to restore the component to its serviceable condition in
+the overhaul shop.</para></unlitem>
+<unlitem><para>The Abbreviated Component Maintenance Manual (ACMM)
+is a brief version of the CMM, for simple components which require
+periodic maintenance and/or testing.</para></unlitem>
+<unlitem><para>The ACMM/CMM is prepared by the Manufacturer for each
+Repairable or Overhaulable unit.</para></unlitem>
+<unlitem><para>THALES Avionics Technical Publications use both metric
+and non-metric system of measurement. The system used in the original
+reference documents is given first, followed by the conversion into
+the other system in brackets.</para></unlitem>
+</unlist>
+</prcitem>
+</prcitem1>
+</prclist1>
+</topic>
+</task>
+</pgblk>
+<ipl chapnbr="31" sectnbr="64" subjnbr="06" pgblknbr="0" chg="N"
+key="IPL" revdate="20090923">
+<isempty/></ipl>
+</cmm><?Pub Caret?>
+<?Pub *0000003601 0?>
